@@ -66,4 +66,4 @@ Seja para discutir um novo projeto, uma oportunidade de desenvolvimento ou apena
 
 ---
 
-⚡ *Driven by code, automated by purpose.*
+⚡ “Transformo processos manuais e ineficientes em sistemas fluidos e lucrativos.”
