@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo Menani! 👋
 
-[![Website](https://img.shields.io/badge/Portfolio-gmenani.dev-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gmenani.dev)
+[![Website](https://img.shields.io/badge/Portfolio-gmenani.pro-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gmenani.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-menani-0734003a7/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menanigustavo@gmail.com)
 
@@ -49,7 +49,7 @@ Domino uma ampla variedade de linguagens, frameworks e ferramentas modernas volt
 
 ### 📈 Projetos em Destaque
 
-Você pode conferir o funcionamento prático e o código de soluções reais no meu portfólio oficial [gmenani.dev](https://gmenani.dev), englobando:
+Você pode conferir o funcionamento prático e o código de soluções reais no meu portfólio oficial [gmenani.pro](https://gmenani.pro), englobando:
 * **Sistemas Integrados End-to-End:** Conectando front-end moderno a bancos relacionais com regras de negócio seguras.
 * **Soluções de E-commerce & Clubes Digitais:** Estruturas de alta performance criadas para suportar tráfego e conversão.
 * **Workflows Automatizados:** Pipelines criados no n8n e scripts em Python que eliminam processos manuais repetitivos.
@@ -60,10 +60,10 @@ Você pode conferir o funcionamento prático e o código de soluções reais no 
 
 Seja para discutir um novo projeto, uma oportunidade de desenvolvimento ou apenas trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato:
 
-- 🌍 Portfólio: [gmenani.dev](https://gmenani.dev)
+- 🌍 Portfólio: [gmenani.pro](https://gmenani.pro)
 - 💼 LinkedIn: [Gustavo Menani](https://www.linkedin.com/in/gustavo-menani-0734003a7/)
 - 📧 E-mail: [menanigustavo@gmail.com](mailto:menanigustavo@gmail.com)
 
 ---
 
-⚡ “Transformo processos manuais e ineficientes em sistemas fluidos e lucrativos.”
+⚡ *“Transformo processos manuais e ineficientes em sistemas fluidos e lucrativos.”*
